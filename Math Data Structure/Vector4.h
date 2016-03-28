@@ -103,7 +103,7 @@ namespace MatLib
 
 
 #pragma region UnaryOperators
-
+		// hotdog
 		Vector4& operator-() const
 		{
 			return Vector4{ -x,-y,-z,-w };

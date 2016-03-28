@@ -2,7 +2,7 @@
 
 struct Matrix3
 {
-	Matrix
+	Matrix3() {}
 	union
 	{
 		float m[3][3];
